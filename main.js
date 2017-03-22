@@ -1,7 +1,6 @@
-
-require("./vendor/bootstrap/css/bootstrap.css");
+require("./assets/bootstrap/css/bootstrap.css");
 require("./css/agency.css");
-require('./vendor/bootstrap/js/bootstrap.js');
+require('./assets/bootstrap/js/bootstrap.js');
 require('./js/jquery.easing.min.js');
 require('./js/jqBootstrapValidation.js');
 require('./js/contact_me.js');
